@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">semana 4 clase jueves</string>
+    <string name="btn_title_main">ir al formulario</string>
+    <string name="tv_status_main">no completado</string>
+
+    <string name="hint_userform_name"> ¿como te llamas?</string>
+    <string name="hint_userform_email">estoEsUnCorrep@correo.com</string>
+    <string name="hint_userform_username">pepe</string>
+
+    <string name="btn_title_userform">completar</string>
+</resources>
